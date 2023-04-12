@@ -1,0 +1,26 @@
+{
+  "name": "logintask_backend_zaperon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek9812/LoginTask_Backend_Zaperon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishek9812/LoginTask_Backend_Zaperon/issues"
+  },
+  "homepage": "https://github.com/Abhishek9812/LoginTask_Backend_Zaperon#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.3"
+  }
+}
